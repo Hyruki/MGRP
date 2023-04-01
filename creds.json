@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "moneygain-382414",
+  "private_key_id": "93bd816931397ce58c9f77b4a017c2f4045f54f9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfwT4C9iAYkt4T\nw/zoHMBNVKXF+eJHClSFhH2i5Hbg2GVfeuwVM8C6giDu7eLMzJNUADFkKe2ivjyY\nyX9t0XQqz29TlBRU+Mbv6+2JKkfUEnfM6/k3SVziQqEdg5dEGg5bKq12YqJgfTvK\n4TwZ6seAjHer4wHXOGqerTO9cogz90jhO/ysgNd2siotpt2hMHnvZQREpm2A+7PV\nN8FI49qiaAFdZZfAPmw/HEN9/vXVppYkQ6YD5GvXLSuq2c75yArs/9ZFJkPrxIH3\n0MC2zgC3AkrWCtGYNERywURf2Viniz98D9lN8+QVKs1GrAfaawfCpQ7+4om7gbju\nH0OL9ow3AgMBAAECggEACbeVdGSUmkAndJgRjDU2GoIS55keZ8Vk9vNuzx8q289U\nqly8WfGWpaZv9bPrsI5M8r+31yxMTYjnAB+g8PekcDG7iyzfOg88Mc5/CgDpRzSS\nHVNZsav2Dz3caD8puxxmIFFuRCuQL66LSMMI3l7S0SpzKjvq/YvcAQ4aGJGNiHpY\neS3qwMYTyfayAH+Xsb+tRrZAICXgwDTQX2f37Nt1pLr+pNBTOmqMq4BuGNCwoBAM\ntqAn8HvEICcGQyB9ynrZJcYT2/HYxG9ohF9AApCkn4R4kMUlMXJXl6/jKC4TI3xm\nGHf4ISDxnQj50nbd7GwUl9coaNyOfGRyp8B/3AKwaQKBgQD9bxczUnBG3WtIbdCv\nVy4YB6e46sMpIvn5813rRPCL92Jn4znqC3YuPCD5BBt60rCZdeWEZ+MIzZtA/hnz\nkVF30oW/L/JuaqwNUjThy7w3Z0cfJx3A+T0kXXaVvdY7tS7BXVrZUsZXVDqD3pZo\nlfoZfqc/ORDGLeXJIFYtMfG9DQKBgQDiBTjuSbrDtIHhX0UMaxEIF8YdIeFY6FhI\nhNMhTpeQ5GQM7UQXKF1OoJcbEmNvlyxdhgsHdQjlzE/30EA1kVyX55YjA4oPNIEt\nt95/UiZ6MYAZCFRlzsoEqqapjL5nl6+hsOfQ+tn98wGZdcZA9OMsIu7oaBPNzT9v\nx+evMjkFUwKBgHhXmBy2uLntylPKUZ3xN+IRQIN+ds3B3hHijmZ5hf/wqLnMHGQW\nrTenNcEJQkNAaLt2UFZfPl+fwmlKP+h4yMatIPV4PxZPcQOiVZoitG1ajVstp+NK\nds4d04Gnc2NG1bzcJ5eqxqQRSvfzalifXvNcQO60mlKA2Ox4fnNXlALBAoGARsSr\n1rBvMefK4u4ZiJHde1M2TNjW3iehvNMZ6EvbWRqp2QJRV47j6EKQDYHscHw8/+uA\neI1Eg+88+rLR5/PjsgxpDf2FtM0TxWTU3bizI39sRGo/QsFEr8Fe/ad71qO/8jiZ\n3O0uZD06OvqNYLlMh/1IIKy1xrKFMlK9UDXBdNECgYEAkvhtDMarD1Y3ytu01TYc\nf29i5VA+aESQ7s4caYPC2XpLxMvcAbmeCdFujX2RrUh8wEHAU8aGnPZDI3VZlEOw\nRCxc/gnNVH/OoDTUgtzaimAQtsekYuuj00DJIy/RQOjleFmab2mGF3M0sGbJzzQA\nGPv6u1hm9tz0HeEBvzvUXJI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "moneygainrp@moneygain-382414.iam.gserviceaccount.com",
+  "client_id": "113246533150344763319",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/moneygainrp%40moneygain-382414.iam.gserviceaccount.com"
+}
